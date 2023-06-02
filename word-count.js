@@ -1,3 +1,5 @@
+//solution to word-count in javascript on exercism.io
+
 function wordCount(string) {
    var array = string.split(" ");
    for (i = 0; i < array.length; i++) {
